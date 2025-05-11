@@ -132,10 +132,10 @@
 printf("Comparação de cartas(Atributo Area)\n");
 
    if (AreaKm > AreaKm2){
-    printf("Carta 1 venceu!\n");
+    printf("Resultado: Carta 1 venceu!\n");
 
    } else {
-    printf("Carta 2 venceu!\n");
+    printf(" Resultado: Carta 2 venceu!\n");
    }
    
    //Comparação das cartas (Atributo PIB)
@@ -143,10 +143,10 @@ printf("Comparação de cartas(Atributo Area)\n");
    printf("Comparação de cartas(Atributo PIB)\n");
 
    if (PIB > PIB2){
-    printf("Carta 1 venceu!\n");
+    printf(" Resultado: Carta 1 venceu!\n");
 
    } else {
-    printf("Carta 2 venceu!\n");
+    printf(" Resultado: Carta 2 venceu!\n");
   }
 
    //Comparação das cartas (Atributo Densidade Populacional)
@@ -154,10 +154,10 @@ printf("Comparação de cartas(Atributo Area)\n");
    printf("Comparação de cartas(Densidade Populacional)\n");
 
   if(DensidadePopulacional < DensidadePopulacional2){
-    printf("Carta 1 venceu!\n");
+    printf(" Resultado: Carta 1 venceu!\n");
 
   } else {
-    printf("Carta 2 venceu!\n");
+    printf(" Resultado: Carta 2 venceu!\n");
  }
 
 //Comparação das cartas (Atributo PIBperCapita)
@@ -165,10 +165,10 @@ printf("Comparação de cartas(Atributo Area)\n");
 printf("Comparação de cartas(Atributo PIBperCapita)\n");
 
  if(PIBperCapita > PIBperCapita2){
-    printf("Carta 1 venceu!\n");
+    printf(" Resultado: Carta 1 venceu!\n");
 
  } else {
-    printf("Carta 2 venceu!\n");
+    printf("Resultado: Carta 2 venceu!\n");
 
 
  }
